@@ -45,7 +45,7 @@ export default {
     '@nuxtjs/axios'
   ],
 
-  // Axios module configuration: https://go.nuxtjs.dev/config-axios
+  // Axios module configuration: https://go.nuxtjs.dev/config-axios -- criar api /books
   axios: {
     baseURL: 'https://api-ibook-thiagosilvalopes.herokuapp.com/'
   },
